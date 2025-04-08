@@ -7,25 +7,25 @@ sites:
     url: https://wreative.com
   - name: Wreative Store
     url: https://store.wreative.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Wreative Showcase
+    url: https://showcase.wreative.com
+  - name: Infleet
+    url: https://infleet.id/up
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wreative.com
   # baseUrl: /your-repo-name
+  # favicon: https://example.com/favicon.png
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status
+  introTitle: "**Wreative** Internal Monitoring System."
+  introMessage: Welcome to the internal monitoring dashboard. This system **monitors the status of all our websites and services** in real-time. Use this control panel to verify service availability and quickly identify issues.
   navbar:
     - title: Status
       href: /
