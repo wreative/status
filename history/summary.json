@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wreative.com.ico",
     "slug": "wreative",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "96.23%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.33%",
     "time": 1621,
     "timeDay": 1336,
     "timeWeek": 1362,
@@ -30,9 +30,9 @@
     "url": "https://store.wreative.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.wreative.com.ico",
     "slug": "wreative-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
@@ -42,6 +42,7 @@
     "timeMonth": 1360,
     "timeYear": 1375,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2025-04-05": 7,
       "2025-03-08": 16
     }
@@ -69,17 +70,19 @@
     "url": "https://infleet.id/up",
     "icon": "https://icons.duckduckgo.com/ip3/infleet.id.ico",
     "slug": "infleet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1241,
-    "timeDay": 1511,
-    "timeWeek": 1287,
-    "timeMonth": 1241,
-    "timeYear": 1241,
-    "dailyMinutesDown": {}
+    "time": 1144,
+    "timeDay": 840,
+    "timeWeek": 1147,
+    "timeMonth": 1144,
+    "timeYear": 1144,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   }
 ]
