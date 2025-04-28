@@ -15,6 +15,24 @@ sites:
       - 200
       - 201
       - 404
+  - name: TipoTix
+    url: https://tipotix.com/up
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: TipoTix Barcode
+    url: https://tikcheck.tipotix.com/up
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Lumi Signal
+    url: https://lumi-signal.com/up
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
