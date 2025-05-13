@@ -1,7 +1,7 @@
 url: https://lumi-signal.com/up
-status: down
-code: 500
-responseTime: 979
-lastUpdated: 2025-05-13T06:52:52.185Z
+status: up
+code: 200
+responseTime: 894
+lastUpdated: 2025-05-13T06:59:57.892Z
 startTime: 2025-04-28T11:02:56.371Z
 generator: Upptime <https://github.com/upptime/upptime>
