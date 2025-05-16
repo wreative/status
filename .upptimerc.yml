@@ -21,7 +21,7 @@ sites:
       - 200
       - 201
       - 404
-  - name: TipoTix Barcode
+  - name: TikCheck (TipoTix)
     url: https://tikcheck.tipotix.com/up
     expectedStatusCodes:
       - 200
