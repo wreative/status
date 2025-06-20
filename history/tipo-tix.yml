@@ -1,7 +1,7 @@
 url: https://tipotix.com/up
-status: down
-code: 502
-responseTime: 848
-lastUpdated: 2025-06-20T04:57:06.468Z
+status: up
+code: 200
+responseTime: 2213
+lastUpdated: 2025-06-20T05:17:30.511Z
 startTime: 2025-04-28T11:02:53.406Z
 generator: Upptime <https://github.com/upptime/upptime>
