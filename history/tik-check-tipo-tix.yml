@@ -1,7 +1,7 @@
 url: https://tikcheck.tipotix.com/up
-status: up
-code: 200
-responseTime: 1681
-lastUpdated: 2025-06-19T23:21:06.573Z
+status: down
+code: 502
+responseTime: 854
+lastUpdated: 2025-06-20T04:57:09.281Z
 startTime: 2025-05-16T13:48:04.229Z
 generator: Upptime <https://github.com/upptime/upptime>
